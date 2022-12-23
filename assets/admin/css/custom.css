@@ -1,0 +1,1121 @@
+@media only screen and (min-width: 1344px) {
+    .headercenter{
+        margin-left:460px;
+    }
+    .box_prodk {
+        font-family: 'proxima-nova', sans-serif;
+        background: #ECF0F3 0% 0% no-repeat padding-box;
+        box-shadow: -10px -10px 20px #FFFFFFB3;
+        opacity: 1;
+    }
+
+    .scroll {
+        font-family: 'proxima-nova', sans-serif;
+        display: block;
+        border: 1px solid red;
+        padding: 5px;
+        margin-top: 5px;
+        width: 300px;
+        height: 50px;
+        overflow: scroll;
+    }
+
+    .auto {
+        font-family: 'proxima-nova', sans-serif;
+        display: block;
+        /* border: 1px solid red; */
+        padding: 5px;
+        margin-top: 5px;
+        width: 100%;
+        height: 430px;
+        overflow: auto;
+    }
+
+    .boxauto {
+        font-family: 'proxima-nova', sans-serif;
+        display: block;
+        /* border: 1px solid red; */
+        padding: 5px;
+        margin-top: 5px;
+        width: 100%;
+        height: 570px;
+        overflow: auto;
+    }
+
+    .box_pulsa {
+        font-family: 'proxima-nova', sans-serif;
+        border: 3px solid #F7F8F0;
+        border-radius: 15px;
+        opacity: 1;
+        background: #F7F8F0 0% 0% no-repeat padding-box;
+        width: 100%;
+        height: 65px;
+        padding-top: 6px;
+    }
+
+    .auto_nominal {
+        font-family: 'proxima-nova', sans-serif;
+        display: block;
+        border: 3px solid #D7E0E6;
+        border-radius: 15px;
+        opacity: 1;
+        padding: 13px;
+        margin-top: 5px;
+        width: 100%;
+        height: 300px;
+        overflow: auto;
+    }
+
+    .input_hp {
+        font-family: 'proxima-nova', sans-serif;
+        background: #F8F8F8 0% 0% no-repeat padding-box;
+        border-radius: 15px;
+        opacity: 1;
+        top: 592px;
+        left: 167px;
+        width: 656px;
+        height: 66px;
+        font-size: 37px;
+    }
+
+    .button_submit {
+        font-family: 'proxima-nova', sans-serif;
+        background: #00C89F 0% 0% no-repeat padding-box;
+        border-radius: 15px;
+        opacity: 1;
+        top: 592px;
+        left: 865px;
+        width: 100%;
+        height: 61px;
+        margin: 3px;
+        font-size: 20px;
+        letter-spacing: 0px;
+        color: #F7F8F0;
+        opacity: 1;
+    }
+    .button_cek {
+        font-family: 'proxima-nova', sans-serif;
+        background: #3F88C5 0% 0% no-repeat padding-box;
+        border-radius: 15px;
+        opacity: 1;
+        top: 592px;
+        left: 865px;
+        width: 100%;
+        height: 61px;
+        margin: 3px;
+        font-size: 20px;
+        letter-spacing: 0px;
+        color: #F7F8F0;
+        opacity: 1;
+    }
+
+    .button_cek {
+        font-family: 'proxima-nova', sans-serif;
+        background: #3F88C5 0% 0% no-repeat padding-box;
+        border-radius: 15px;
+        opacity: 1;
+        top: 592px;
+        left: 865px;
+        width: 100%;
+        height: 61px;
+        margin: 3px;
+        font-size: 20px;
+        letter-spacing: 0px;
+        color: #F7F8F0;
+        opacity: 1;
+    }
+
+    .button_batal {
+        font-family: 'proxima-nova', sans-serif;
+        background: #B4C5D1 0% 0% no-repeat padding-box;
+        border-radius: 15px;
+        opacity: 1;
+    }
+
+    .button_cetak {
+        font-family: 'proxima-nova', sans-serif;
+        background: #B4C5D1 0% 0% no-repeat padding-box;
+        border-radius: 15px;
+        opacity: 1;
+    }
+
+    .produk_pilih {
+        font-family: 'proxima-nova', sans-serif;
+        top: 241px;
+        left: 894px;
+        width: 183px;
+        height: 181px;
+        background: #F8F8F8 0% 0% no-repeat padding-box;
+        opacity: 1;
+    }
+
+    .background_struck {
+        font-family: 'proxima-nova', sans-serif;
+        left: 450px;
+        width: 385px;
+        height: 550px;
+        background: #f7f8f0 0% 0% no-repeat padding-box;
+        border-radius: 15px;
+        opacity: 1;
+    }
+
+    .cari-data {
+        font-family: 'proxima-nova', sans-serif;
+        top: 165px;
+        left: 598px;
+        width: 255px;
+        height: 40px;
+        background: #F8F8F8 0% 0% no-repeat padding-box;
+        border-radius: 10px;
+        opacity: 1;
+        border: 1px solid #ccc;
+        font-size: 16px;
+        padding-left: 16px;
+    }
+
+    .font-order {
+        font-family: 'proxima-nova', sans-serif;
+        text-align: left;
+        font-size: 15px;
+        font-weight: bold;
+        letter-spacing: 0px;
+        color: #7F858D;
+        opacity: 1;
+    }
+
+    .garis-hr {
+        font-family: 'proxima-nova', sans-serif;
+        border: 1px dashed #D7E0E6;
+        width: 180px;
+        margin-top: 10px;
+        margin-bottom: 10px;
+    }
+
+    .garis-hr-default {
+        font-family: 'proxima-nova', sans-serif;
+        border: 1px solid #ECF0F3;
+        width: 100%;
+        margin-top: 15px;
+        margin-bottom: 10px;
+        margin-left: 0;
+    }
+
+    .title_struk {
+        font-family: 'proxima-nova', sans-serif;
+        top: 0px;
+        left: 0px;
+        width: 100%;
+        height: 20px;
+        text-align: left;
+        font-size: 25px;
+        font-weight: bold;
+        letter-spacing: 0px;
+        color: #575F64;
+        margin-top: 10px;
+        margin-left: 25px;
+
+    }
+
+    .date_struk {
+        font-family: 'proxima-nova', sans-serif;
+        top: 22px;
+        left: 0px;
+        width: 158px;
+        height: 20px;
+        text-align: left;
+        font-size: 17px;
+        letter-spacing: 0px;
+        color: #575F64 margin-top: 5px;
+        margin-left: 25px;
+        width: 100%;
+        margin-top: 17px;
+    }
+
+    .deskripsi {
+        font-family: 'proxima-nova', sans-serif;
+        text-align: left;
+        font: 15px;
+        letter-spacing: 0px;
+        color: #7F858D;
+        opacity: 1;
+        margin-left: 25px;
+        margin-bottom: 2px;
+    }
+
+    /* .titikdua{ font-family: 'proxima-nova', sans-serif;
+    margin-left: 75px
+} */
+    .terimakasih {
+        font-family: 'proxima-nova', sans-serif;
+        /* width: 100%; */
+        /* text-align: center; */
+        font-size: 16;
+        letter-spacing: 0px;
+        color: #7F858D;
+        opacity: 1;
+        margin-top: 30px;
+        margin-left: 25px;
+    }
+
+    .barcode {
+        font-family: 'proxima-nova', sans-serif;
+        margin-left: 25px;
+        margin-top: 28px;
+    }
+
+    .banner {
+        font-family: 'proxima-nova', sans-serif;
+        top: 552px;
+        left: 167px;
+        width: 946px;
+        height: 127px;
+        background: #D7E0E6 0% 0% no-repeat padding-box;
+        border-radius: 15px;
+        opacity: 1;
+        margin-left: 83px;
+        margin-top: 30px;
+    }
+
+    .container-banner {
+        font-family: 'proxima-nova', sans-serif;
+        position: relative;
+        overflow: hidden;
+        width: 100%;
+        padding-top: 56.25%;
+        /* 16:9 Aspect Ratio (divide 9 by 16 = 0.5625) */
+    }
+
+    /* Then style the iframe to fit in the container div with full height and width */
+    .responsive-banner {
+        font-family: 'proxima-nova', sans-serif;
+        // position: absolute;
+        top: 0;
+        left: 0;
+        bottom: 0;
+        right: 0;
+        width: 100%;
+        height: 500px;
+        border-radius: 15px;
+    }
+
+    .footerimg {
+        margin-top: 44px;
+    }
+
+
+    .calculator-keys {
+        font-family: 'proxima-nova', sans-serif;
+        display: grid;
+        grid-template-columns: repeat(3, 1fr);
+        grid-gap: 20px;
+        padding: 10px;
+        margin-top: -40px;
+    }
+
+    .key-hapus {
+        font-family: 'proxima-nova', sans-serif;
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        grid-gap: 20px;
+        padding: 20px;
+        margin-top: -40px;
+    }
+
+    .key-action {
+        font-family: 'proxima-nova', sans-serif;
+        display: grid;
+        grid-template-columns: repeat(1, 1fr);
+        grid-gap: 20px;
+        padding: 20px;
+    }
+
+    .btn-custom {
+        font-family: 'proxima-nova', sans-serif;
+        font-size: 45px;
+        width: 100%;
+        margin: 0px;
+        height: auto;
+        background: #575F64 0% 0% no-repeat padding-box;
+        border-radius: 15px;
+        opacity: 1;
+        border: 0px;
+    }
+
+    /* Css New */
+
+    .banner-header {
+        font-family: 'proxima-nova', sans-serif;
+        top: 57px;
+        left: 99px;
+        width: 100%;
+        height: auto;
+        margin-top: 38px;
+        margin-bottom: 50px;
+        min-height: 100% !important;
+        background: #F6F7EB 0% 0% no-repeat padding-box;
+        border-radius: 15px;
+        opacity: 1;
+    }
+
+    .text-image-p {
+        font-family: 'proxima-nova', sans-serif;
+        margin: 94px auto;
+        width: 70%;
+        text-align: center;
+    }
+
+    .styleimg {
+        font-family: 'proxima-nova', sans-serif;
+        position: relative;
+        z-index: 1;
+        top: 0px;
+    }
+
+    .stylep {
+        font-family: 'proxima-nova', sans-serif;
+        position: absolute;
+        top: 110px;
+        z-index: 2;
+        width: 100%;
+        /* font: Bold 20px/31px Proxima Nova; */
+        font-family: 'proxima-nova', sans-serif;
+        font-weight: bold;
+        letter-spacing: 0px;
+        color: #575F64;
+        opacity: 1;
+        left: 1px;
+        font-size: medium;
+    }
+
+    .cardproduk {
+        font-family: 'proxima-nova', sans-serif;
+        box-sizing: border-box;
+        margin-bottom: 30px;
+        background-clip: padding-box;
+    }
+
+    .btnback {
+        font-family: 'proxima-nova', sans-serif;
+        background: #F7F8F0 0% 0% no-repeat padding-box;
+        border-radius: 15px;
+        opacity: 1;
+        color: #347CB8;
+        width: 145px;
+        height: 50px;
+        text-align: left;
+    }
+
+    .btnhapus {
+        font-family: 'proxima-nova', sans-serif;
+        background: #E94F37 0% 0% no-repeat padding-box;
+        border-radius: 15px;
+        opacity: 1;
+        font-size: xx-large;
+    }
+
+    .bgheader {
+        font-family: 'proxima-nova', sans-serif;
+        width: 100%;
+        height: 106px;
+        background: #EAECD7 0% 0% no-repeat padding-box;
+        border-radius: 15px 15px 0px 0px;
+        opacity: 1;
+    }
+
+    .bgbody {
+        font-family: 'proxima-nova', sans-serif;
+        width: 100%;
+        height: 260px;
+        border-radius: 0px 0px 15px 15px;
+        opacity: 1;
+        background: #FFFFFF 0% 0% no-repeat padding-box;
+    }
+
+    .ptitle {
+        font-family: 'proxima-nova', sans-serif;
+        position: absolute;
+        top: 70px;
+        z-index: 2;
+        width: 100%;
+        font-size: 35px;
+        font-weight: bold;
+        letter-spacing: 0px;
+        color: #575F64;
+        opacity: 1;
+        left: -355px;
+    }
+
+    .psubtitle {
+        font-family: 'proxima-nova', sans-serif;
+        position: absolute;
+        top: 120px;
+        z-index: 2;
+        width: 100%;
+        font-size: 20px;
+        letter-spacing: 0px;
+        color: #575F64;
+        opacity: 1;
+        left: -465px;
+    }
+
+    .pcontactperson {
+        font-family: 'proxima-nova', sans-serif;
+        position: absolute;
+        top: 70px;
+        z-index: 2;
+        width: 100%;
+        font-size: 25px;
+        letter-spacing: 0px;
+        color: #F6F7EB;
+        opacity: 1;
+        left: 454px;
+        font-weight: normal;
+    }
+
+    .ptitlecontactperson {
+        font-family: 'proxima-nova', sans-serif;
+        position: absolute;
+        top: 95px;
+        z-index: 2;
+        width: 100%;
+        font-size: 36px;
+        letter-spacing: 0px;
+        color: #F6F7EB;
+        opacity: 1;
+        left: 460px;
+        font-weight: bold;
+    }
+
+    .imgcontact {
+        position: absolute;
+        top: 80px;
+        z-index: 2;
+        width: 60px;
+        opacity: 1;
+        left: 950px;
+    }
+}
+
+@media only screen and (min-width: 1824px) {
+    .headercenter{
+        margin-left:686px;
+    }
+    .box_prodk {
+        font-family: 'proxima-nova', sans-serif;
+        background: #ECF0F3 0% 0% no-repeat padding-box;
+        box-shadow: -10px -10px 20px #FFFFFFB3;
+        opacity: 1;
+    }
+
+    .scroll {
+        font-family: 'proxima-nova', sans-serif;
+        display: block;
+        border: 1px solid red;
+        padding: 5px;
+        margin-top: 5px;
+        width: 300px;
+        height: 50px;
+        overflow: scroll;
+    }
+
+    .auto {
+        font-family: 'proxima-nova', sans-serif;
+        display: block;
+        /* border: 1px solid red; */
+        padding: 5px;
+        margin-top: 5px;
+        width: 100%;
+        height: 430px;
+        overflow: auto;
+    }
+
+    .boxauto {
+        font-family: 'proxima-nova', sans-serif;
+        display: block;
+        /* border: 1px solid red; */
+        padding: 5px;
+        margin-top: 5px;
+        width: 100%;
+        height: 570px;
+        overflow: auto;
+    }
+
+    .box_pulsa {
+        font-family: 'proxima-nova', sans-serif;
+        border: 3px solid #F7F8F0;
+        border-radius: 15px;
+        opacity: 1;
+        background: #F7F8F0 0% 0% no-repeat padding-box;
+        width: 100%;
+        height: 65px;
+        padding-top: 6px;
+    }
+
+    .auto_nominal {
+        font-family: 'proxima-nova', sans-serif;
+        display: block;
+        border: 3px solid #D7E0E6;
+        border-radius: 15px;
+        opacity: 1;
+        padding: 13px;
+        margin-top: 5px;
+        width: 100%;
+        height: 300px;
+        overflow: auto;
+    }
+
+    .input_hp {
+        font-family: 'proxima-nova', sans-serif;
+        background: #F8F8F8 0% 0% no-repeat padding-box;
+        border-radius: 15px;
+        opacity: 1;
+        top: 592px;
+        left: 167px;
+        width: 656px;
+        height: 66px;
+        font-size: 37px;
+    }
+
+    .button_submit {
+        font-family: 'proxima-nova', sans-serif;
+        background: #00C89F 0% 0% no-repeat padding-box;
+        border-radius: 15px;
+        opacity: 1;
+        top: 592px;
+        left: 865px;
+        width: 100%;
+        height: 61px;
+        margin: 3px;
+        font-size: 20px;
+        letter-spacing: 0px;
+        color: #F7F8F0;
+        opacity: 1;
+    }
+    .button_cek {
+        font-family: 'proxima-nova', sans-serif;
+        background: #3F88C5 0% 0% no-repeat padding-box;
+        border-radius: 15px;
+        opacity: 1;
+        top: 592px;
+        left: 865px;
+        width: 100%;
+        height: 61px;
+        margin: 3px;
+        font-size: 20px;
+        letter-spacing: 0px;
+        color: #F7F8F0;
+        opacity: 1;
+    }
+
+    .button_batal {
+        font-family: 'proxima-nova', sans-serif;
+        background: #B4C5D1 0% 0% no-repeat padding-box;
+        border-radius: 15px;
+        opacity: 1;
+    }
+
+    .button_cetak {
+        font-family: 'proxima-nova', sans-serif;
+        background: #B4C5D1 0% 0% no-repeat padding-box;
+        border-radius: 15px;
+        opacity: 1;
+    }
+
+    .produk_pilih {
+        font-family: 'proxima-nova', sans-serif;
+        top: 241px;
+        left: 894px;
+        width: 183px;
+        height: 181px;
+        background: #F8F8F8 0% 0% no-repeat padding-box;
+        opacity: 1;
+    }
+
+    .background_struck {
+        font-family: 'proxima-nova', sans-serif;
+        left: 704px;
+        width: 385px;
+        height: 550px;
+        background: #f7f8f0 0% 0% no-repeat padding-box;
+        border-radius: 15px;
+        opacity: 1;
+    }
+
+    .cari-data {
+        font-family: 'proxima-nova', sans-serif;
+        top: 165px;
+        left: 598px;
+        width: 255px;
+        height: 40px;
+        background: #F8F8F8 0% 0% no-repeat padding-box;
+        border-radius: 10px;
+        opacity: 1;
+        border: 1px solid #ccc;
+        font-size: 16px;
+        padding-left: 16px;
+    }
+
+    .font-order {
+        font-family: 'proxima-nova', sans-serif;
+        text-align: left;
+        font-size: 15px;
+        font-weight: bold;
+        letter-spacing: 0px;
+        color: #7F858D;
+        opacity: 1;
+    }
+
+    .garis-hr {
+        font-family: 'proxima-nova', sans-serif;
+        border: 1px dashed #D7E0E6;
+        width: 180px;
+        margin-top: 10px;
+        margin-bottom: 10px;
+    }
+
+    .garis-hr-default {
+        font-family: 'proxima-nova', sans-serif;
+        border: 1px solid #ECF0F3;
+        width: 100%;
+        margin-top: 15px;
+        margin-bottom: 10px;
+        margin-left: 0;
+    }
+
+    .title_struk {
+        font-family: 'proxima-nova', sans-serif;
+        top: 0px;
+        left: 0px;
+        width: 100%;
+        height: 20px;
+        text-align: left;
+        font-size: 25px;
+        font-weight: bold;
+        letter-spacing: 0px;
+        color: #575F64;
+        margin-top: 10px;
+        margin-left: 25px;
+
+    }
+
+    .date_struk {
+        font-family: 'proxima-nova', sans-serif;
+        top: 22px;
+        left: 0px;
+        width: 158px;
+        height: 20px;
+        text-align: left;
+        font-size: 17px;
+        letter-spacing: 0px;
+        color: #575F64 margin-top: 5px;
+        margin-left: 25px;
+        width: 100%;
+        margin-top: 17px;
+    }
+
+    .deskripsi {
+        font-family: 'proxima-nova', sans-serif;
+        text-align: left;
+        font: 15px;
+        letter-spacing: 0px;
+        color: #7F858D;
+        opacity: 1;
+        margin-left: 25px;
+        margin-bottom: 2px;
+    }
+
+    /* .titikdua{ font-family: 'proxima-nova', sans-serif;
+        margin-left: 75px
+    } */
+    .terimakasih {
+        font-family: 'proxima-nova', sans-serif;
+        /* width: 100%; */
+        /* text-align: center; */
+        font-size: 16;
+        letter-spacing: 0px;
+        color: #7F858D;
+        opacity: 1;
+        margin-top: 30px;
+        margin-left: 25px;
+    }
+
+    .barcode {
+        font-family: 'proxima-nova', sans-serif;
+        margin-left: 25px;
+        margin-top: 28px;
+    }
+
+    .banner {
+        font-family: 'proxima-nova', sans-serif;
+        top: 552px;
+        left: 167px;
+        width: 946px;
+        height: 127px;
+        background: #D7E0E6 0% 0% no-repeat padding-box;
+        border-radius: 15px;
+        opacity: 1;
+        margin-left: 83px;
+        margin-top: 30px;
+    }
+
+    .container-banner {
+        font-family: 'proxima-nova', sans-serif;
+        position: relative;
+        overflow: hidden;
+        width: 100%;
+        padding-top: 56.25%;
+        /* 16:9 Aspect Ratio (divide 9 by 16 = 0.5625) */
+    }
+
+    /* Then style the iframe to fit in the container div with full height and width */
+    .responsive-banner {
+        font-family: 'proxima-nova', sans-serif;
+        // position: absolute;
+        top: 0;
+        left: 0;
+        bottom: 0;
+        right: 0;
+        width: 100%;
+        height: 681px;
+        border-radius: 15px;
+    }
+
+    .footerimg {
+        margin-top: 73px;
+    }
+
+
+    .calculator-keys {
+        font-family: 'proxima-nova', sans-serif;
+        display: grid;
+        grid-template-columns: repeat(3, 1fr);
+        grid-gap: 20px;
+        padding: 10px;
+        margin-top: -40px;
+    }
+
+    .key-hapus {
+        font-family: 'proxima-nova', sans-serif;
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        grid-gap: 20px;
+        padding: 20px;
+        margin-top: -40px;
+    }
+
+    .key-action {
+        font-family: 'proxima-nova', sans-serif;
+        display: grid;
+        grid-template-columns: repeat(1, 1fr);
+        grid-gap: 20px;
+        padding: 20px;
+    }
+
+    .btn-custom {
+        font-family: 'proxima-nova', sans-serif;
+        font-size: 65px;
+        width: 100%;
+        margin: 0px;
+        height: auto;
+        background: #575F64 0% 0% no-repeat padding-box;
+        border-radius: 15px;
+        opacity: 1;
+        border: 0px;
+    }
+
+    /* Css New */
+
+    .banner-header {
+        font-family: 'proxima-nova', sans-serif;
+        top: 57px;
+        left: 99px;
+        width: 100%;
+        height: auto;
+        margin-top: 38px;
+        margin-bottom: 50px;
+        min-height: 100% !important;
+        background: #F6F7EB 0% 0% no-repeat padding-box;
+        border-radius: 15px;
+        opacity: 1;
+    }
+
+    .text-image-p {
+        font-family: 'proxima-nova', sans-serif;
+        margin: 94px auto;
+        width: 70%;
+        text-align: center;
+    }
+
+    .styleimg {
+        font-family: 'proxima-nova', sans-serif;
+        position: relative;
+        z-index: 1;
+        top: 0px;
+    }
+
+    .stylep {
+        font-family: 'proxima-nova', sans-serif;
+        position: absolute;
+        top: 170px;
+        z-index: 2;
+        width: 100%;
+        /* font: Bold 20px/31px Proxima Nova; */
+        font-family: 'proxima-nova', sans-serif;
+        font-weight: bold;
+        letter-spacing: 0px;
+        color: #575F64;
+        opacity: 1;
+        left: 1px;
+        font-size: large;
+    }
+
+    .cardproduk {
+        font-family: 'proxima-nova', sans-serif;
+        box-sizing: border-box;
+        margin-bottom: 30px;
+        background-clip: padding-box;
+    }
+
+    .btnback {
+        font-family: 'proxima-nova', sans-serif;
+        background: #F7F8F0 0% 0% no-repeat padding-box;
+        border-radius: 15px;
+        opacity: 1;
+        color: #347CB8;
+        width: 145px;
+        height: 50px;
+        text-align: left;
+    }
+
+    .btnhapus {
+        font-family: 'proxima-nova', sans-serif;
+        background: #E94F37 0% 0% no-repeat padding-box;
+        border-radius: 15px;
+        opacity: 1;
+        font-size: xxx-large;
+    }
+
+    .bgheader {
+        font-family: 'proxima-nova', sans-serif;
+        width: 100%;
+        height: 106px;
+        background: #EAECD7 0% 0% no-repeat padding-box;
+        border-radius: 15px 15px 0px 0px;
+        opacity: 1;
+    }
+
+    .bgbody {
+        font-family: 'proxima-nova', sans-serif;
+        width: 100%;
+        height: 260px;
+        border-radius: 0px 0px 15px 15px;
+        opacity: 1;
+        background: #FFFFFF 0% 0% no-repeat padding-box;
+    }
+
+    .ptitle {
+        font-family: 'proxima-nova', sans-serif;
+        position: absolute;
+        top: 90px;
+        z-index: 2;
+        width: 100%;
+        font-size: 45px;
+        font-weight: bold;
+        letter-spacing: 0px;
+        color: #575F64;
+        opacity: 1;
+        left: -500px;
+    }
+
+    .psubtitle {
+        font-family: 'proxima-nova', sans-serif;
+        position: absolute;
+        top: 158px;
+        z-index: 2;
+        width: 100%;
+        font-size: 25px;
+        letter-spacing: 0px;
+        color: #575F64;
+        opacity: 1;
+        left: -650px;
+    }
+
+    .pcontactperson {
+        font-family: 'proxima-nova', sans-serif;
+        position: absolute;
+        top: 90px;
+        z-index: 2;
+        width: 100%;
+        font-size: 30px;
+        letter-spacing: 0px;
+        color: #F6F7EB;
+        opacity: 1;
+        left: 565px;
+        font-weight: normal;
+    }
+
+    .ptitlecontactperson {
+        font-family: 'proxima-nova',
+            sans-serif;
+        position: absolute;
+        top: 120px;
+        z-index: 2;
+        width: 100%;
+        font-size: 45px;
+        letter-spacing: 0px;
+        color: #F6F7EB;
+        opacity: 1;
+        left: 578px;
+        font-weight: bold;
+    }
+
+    .imgcontact {
+        position: absolute;
+        top: 111px;
+        z-index: 2;
+        width: 60px;
+        opacity: 1;
+        left: 1270px;
+    }
+}
+
+@media only screen and (min-width: 1920px) {
+    .headercenter{
+        margin-left:734px
+    }
+    .ptitle {
+        font-family: 'proxima-nova', sans-serif;
+        position: absolute;
+        top: 95px;
+        z-index: 2;
+        width: 100%;
+        font-size: 47px;
+        font-weight: bold;
+        letter-spacing: 0px;
+        color: #575F64;
+        opacity: 1;
+        left: -500px;
+    }
+
+    .psubtitle {
+        font-family: 'proxima-nova', sans-serif;
+        position: absolute;
+        top: 155px;
+        z-index: 2;
+        width: 100%;
+        font-size: 25px;
+        letter-spacing: 0px;
+        color: #575F64;
+        opacity: 1;
+        left: -661px;
+    }
+
+    .pcontactperson {
+        font-family: 'proxima-nova', sans-serif;
+        position: absolute;
+        top: 112px;
+        z-index: 2;
+        width: 100%;
+        font-size: 30px;
+        letter-spacing: 0px;
+        color: #F6F7EB;
+        opacity: 1;
+        left: 610px;
+        font-weight: normal;
+    }
+
+    .ptitlecontactperson {
+        font-family: 'proxima-nova', sans-serif;
+        position: absolute;
+        top: 135px;
+        z-index: 2;
+        width: 100%;
+        font-size: 45px;
+        letter-spacing: 0px;
+        color: #F6F7EB;
+        opacity: 1;
+        left: 625px;
+        font-weight: bold;
+    }
+
+    .imgcontact {
+        position: absolute;
+        top: 127px;
+        z-index: 2;
+        width: 60px;
+        opacity: 1;
+        left: 1370px;
+    }
+    .responsive-banner {
+        font-family: 'proxima-nova', sans-serif;
+        // position: absolute;
+        top: 0;
+        left: 0;
+        bottom: 0;
+        right: 0;
+        width: 100%;
+        height: 727px;
+        border-radius: 15px;
+    }
+
+    .footerimg {
+        margin-top: 73px;
+    }
+    .boxauto {
+        font-family: 'proxima-nova', sans-serif;
+        display: block;
+        /* border: 1px solid red; */
+        padding: 5px;
+        margin-top: 5px;
+        width: 100%;
+        height: 755px;
+        overflow: auto;
+    }
+    .background_struck {
+        font-family: 'proxima-nova', sans-serif;
+        left: 740px;
+        width: 385px;
+        height: 550px;
+        background: #f7f8f0 0% 0% no-repeat padding-box;
+        border-radius: 15px;
+        opacity: 1;
+    }
+    .calculator-keys {
+        font-family: 'proxima-nova', sans-serif;
+        display: grid;
+        grid-template-columns: repeat(3, 1fr);
+        grid-gap: 20px;
+        padding: 10px;
+        margin-top: -40px;
+    }
+
+    .key-hapus {
+        font-family: 'proxima-nova', sans-serif;
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        grid-gap: 20px;
+        padding: 20px;
+        margin-top: -40px;
+    }
+
+    .key-action {
+        font-family: 'proxima-nova', sans-serif;
+        display: grid;
+        grid-template-columns: repeat(1, 1fr);
+        grid-gap: 20px;
+        padding: 20px;
+    }
+
+    .btn-custom {
+        font-family: 'proxima-nova', sans-serif;
+        font-size: 65px;
+        width: 100%;
+        margin: 0px;
+        height: auto;
+        background: #575F64 0% 0% no-repeat padding-box;
+        border-radius: 15px;
+        opacity: 1;
+        border: 0px;
+    }
+
+}
